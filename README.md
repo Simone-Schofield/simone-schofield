@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about, I'm a 22-year-old and currently attending NAIT (Northern Alberta Institute of Technology).
-- 📫 How to reach me: You can reach me through email at Simoneas21@nait.ca
+- 📫 How to reach me: You can reach me through email at sschofield4@nait.ca
 - 😄 Pronouns: She/Her/Hers
 <!-- - ⚡ Fun fact: ... -->
